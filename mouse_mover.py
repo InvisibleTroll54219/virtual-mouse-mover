@@ -19,7 +19,7 @@ mp_hands = mp.solutions.hands
 class Gest(IntEnum):
     # Binary Encoded
     """
-    Enum for mapping all hand gesture to binary number.
+    Enum for mapping all hand gesture to a binary number.
     """
 
     FIST = 0
